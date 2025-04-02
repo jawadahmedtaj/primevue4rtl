@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import 'tailwindcss-primeui';
+
+@theme {
+  --font-sans: 'Public Sans', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
